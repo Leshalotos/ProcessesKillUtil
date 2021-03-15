@@ -1,0 +1,15 @@
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.csprojAssemblyReference.cache
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.AssemblyInfoInputs.cache
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.AssemblyInfo.cs
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.csproj.CoreCompileInputs.cache
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/bin/Debug/net5.0/ProcessesKillUtil.deps.json
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/bin/Debug/net5.0/ProcessesKillUtil.runtimeconfig.json
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/bin/Debug/net5.0/ProcessesKillUtil.runtimeconfig.dev.json
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/bin/Debug/net5.0/ProcessesKillUtil.dll
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/bin/Debug/net5.0/ref/ProcessesKillUtil.dll
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/bin/Debug/net5.0/ProcessesKillUtil.pdb
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.dll
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ref/ProcessesKillUtil.dll
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.pdb
+/Users/leshalotos/Desktop/myProjects/ProcessesKillUtil/obj/Debug/net5.0/ProcessesKillUtil.genruntimeconfig.cache
