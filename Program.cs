@@ -2,6 +2,8 @@
 using System.Diagnostics;
 using System.Threading;
 
+// @Autor Lesha
+
 namespace ProcessesKillUtil
 
 {
